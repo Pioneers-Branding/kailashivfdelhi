@@ -1,0 +1,16 @@
+[25-May-2025 18:21:07 UTC] PHP Warning:  Undefined array key "service" in /home/kailashivfdelhi/public_html/mail.php on line 12
+[25-May-2025 18:21:07 UTC] PHP Warning:  Undefined array key "doctor" in /home/kailashivfdelhi/public_html/mail.php on line 15
+[25-May-2025 18:21:07 UTC] PHP Warning:  Undefined array key "name" in /home/kailashivfdelhi/public_html/mail.php on line 18
+[25-May-2025 18:21:07 UTC] PHP Warning:  Undefined array key "phone" in /home/kailashivfdelhi/public_html/mail.php on line 21
+[25-May-2025 18:21:07 UTC] PHP Warning:  Undefined array key "country" in /home/kailashivfdelhi/public_html/mail.php on line 24
+[25-May-2025 18:21:07 UTC] PHP Warning:  Undefined array key "email" in /home/kailashivfdelhi/public_html/mail.php on line 27
+[25-May-2025 18:21:07 UTC] PHP Warning:  Undefined array key "message" in /home/kailashivfdelhi/public_html/mail.php on line 31
+[25-May-2025 18:21:07 UTC] PHP Warning:  Undefined variable $headers in /home/kailashivfdelhi/public_html/mail.php on line 50
+[02-Apr-2026 13:33:26 UTC] PHP Warning:  Undefined array key "service" in /home/kailashivfdelhi/public_html/mail.php on line 12
+[02-Apr-2026 13:33:26 UTC] PHP Warning:  Undefined array key "doctor" in /home/kailashivfdelhi/public_html/mail.php on line 15
+[02-Apr-2026 13:33:26 UTC] PHP Warning:  Undefined array key "name" in /home/kailashivfdelhi/public_html/mail.php on line 18
+[02-Apr-2026 13:33:26 UTC] PHP Warning:  Undefined array key "phone" in /home/kailashivfdelhi/public_html/mail.php on line 21
+[02-Apr-2026 13:33:26 UTC] PHP Warning:  Undefined array key "country" in /home/kailashivfdelhi/public_html/mail.php on line 24
+[02-Apr-2026 13:33:26 UTC] PHP Warning:  Undefined array key "email" in /home/kailashivfdelhi/public_html/mail.php on line 27
+[02-Apr-2026 13:33:26 UTC] PHP Warning:  Undefined array key "message" in /home/kailashivfdelhi/public_html/mail.php on line 31
+[02-Apr-2026 13:33:26 UTC] PHP Warning:  Undefined variable $headers in /home/kailashivfdelhi/public_html/mail.php on line 50
